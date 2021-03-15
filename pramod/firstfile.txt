@@ -1,0 +1,1 @@
+In this file we write the text which is very useful in determining the readfile functionality. read_file is a service in which the user reads 100 characters from the file at a time.
